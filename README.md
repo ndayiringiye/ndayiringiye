@@ -15,8 +15,9 @@
 - Role-based access and real-time features
 
 ---
-
 ### 📊 GitHub Stats
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
----
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndayiringiye&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndayiringiye&layout=compact&theme=radical)
+
